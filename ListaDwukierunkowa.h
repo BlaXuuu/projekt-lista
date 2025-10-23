@@ -217,3 +217,4 @@ public:
         return ListIterator<T>(nullptr); // end() to wskaznik za ostatnim elementem
     }
 };
+
